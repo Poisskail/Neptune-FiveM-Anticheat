@@ -1,7 +1,7 @@
 NeptuneS = {}
 
 NeptuneS.ScriptID = 1
-NeptuneS.LicenseKey = "Neptune-AUIC-9858-E4FF-ESXC"
+NeptuneS.LicenseKey = "Neptune-......"
 
 NeptuneS.ServerName = "Neptune"
 
