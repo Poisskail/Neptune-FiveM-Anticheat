@@ -12,90 +12,85 @@ More Preview will be add soon...
 
 # Client-side 
 
-🌊-Anti God Mode
+🌊- Screen Check :
+         Freecam Check
+         Player Blips Check
+         Night Vision Check
+         Thermal Vision Check
+         NUI DEV TOOLS Check
+         
+🌊- Anti Stop Script
 
-🌊-Max health system
+🌊- Anti Stop Neptune Anticheat
+ 
+🌊- Anti ALT-F4
 
-🌊-Anti Semi God Mode
+🌊- Anti Sper Jump
 
-🌊-Anti Spectate
+🌊- Anti Spectate
 
-🌊-Weapon Blacklist
+🌊- Anti Noclip
 
-🌊-NPC Deleter for NoNPC servers
+🌊- Anti God Mod
 
-🌊-Texture Detection
+🌊- Anti Invisible
 
-🌊-Thermal Vision detection
+🌊- Anti No Ragdoll
 
-🌊-Night Vision detection
+🌊- Anti Infinite Stamina
 
-🌊-Anti Ragdoll detection
+🌊- Anti Explosive Bullet
 
-🌊-Anti MenyooASI
+🌊- Anti Blacklisted Weapons
 
-🌊-Anti Freecam
+🌊- Anti Bugs/Glitch
 
-🌊-Armor check
+🌊- Wipe Destroyed Cars
 
-🌊-Anti Tiny ped
+🌊- Anti Cheat Engine
 
-🌊-Ped blacklist
+🌊- Anti Blacklisted Plates
 
-🌊-Resource Lookup
+🌊- Anti Blacklisted Cars
 
-🌊-Command Checker
+🌊- Anti Words On Screen
 
-🌊-Resource Checker
-
-🌊-Anti Resource Restart
-
-🌊-NUICheck
-
-🌊-Anti NUI-Devtools
-
-🌊-Anti Invisible
-
-🌊-Anti SpeedHack
-
-🌊-Anti Explosive Bullets
-
-🌊-Anti Noclip
-
-🌊-Anti Weapon Damage Changer
-
-🌊-EMD
-
-# Server-side dev functions
-
-🌊-Debug Mode
+🌊- Anti Blacklisted Commands
 
 # Server-side 
 
-🔱-Anti PCK Menu
+🔱- Anti Cipher Backdoor
 
-🔱-Anti Scrambler Script
-🔱-Anti Weapon remove
+🔱- Anti VPN
 
-🔱-Anti Weapon add
+🔱- Anti Much Money
 
-🔱-Anti Entity Nuke, this will catch entity spams etc...
+🔱- Anti Eulen
 
-🔱-Anti ParticleFX
+🔱- Anti Parazetamol
 
-🔱-Anti Explosion Nuke
+🔱- Anti RedEngine (DEV...)
 
-🔱-Anti Chat Spam
+🔱- Anti Desudo (DEV...)
 
-🔱-Anti Blacklisted Word
+🔱- Anti HX (DEV...)
 
-🔱-Blacklisted Events
+🔱- Anti Eulen Lua Inject
 
-🔱-Argument protected events
+🔱- Anti Eulen Spawn Car
 
-🔱-Anti Negative Events
+🔱- Anti XSS Injection
 
-🔱-Object/Vehicle/Ped blacklist
+🔱- Anti Give Weapons
 
-🔱-Anti Event Spam
+🔱- Anti Remove Weapons
+
+🔱- Anti Blacklisted Events
+
+🔱- Anti Blacklisted Models
+
+🔱- Anti Blacklisted Peds
+
+
+
 
