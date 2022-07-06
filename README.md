@@ -13,11 +13,11 @@ More Preview will be add soon...
 # Client-side 
 
 🌊- Screen Check :
-         Freecam Check
-         Player Blips Check
-         Night Vision Check
-         Thermal Vision Check
-         NUI DEV TOOLS Check
+         Freecam Check | 
+         Player Blips Check | 
+         Night Vision Check | | 
+         Thermal Vision Check | 
+         NUI DEV TOOLS Check | 
          
 🌊- Anti Stop Script
 
