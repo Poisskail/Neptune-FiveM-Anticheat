@@ -18,12 +18,12 @@ NeptuneS.Main = {
 }
 
 NeptuneS.Webhook = {
-	BasicBanwebhook = "https://discord.com/api/webhooks/969936169347448882/5zz9b9ZhoSAStR5vzwmLaB6shuJ6WCao7eYb74ysyHrcouPuwHh6vUHGX6e4AYoiALAT",
-	EntitiesWebhook = "https://discord.com/api/webhooks/969936169347448882/5zz9b9ZhoSAStR5vzwmLaB6shuJ6WCao7eYb74ysyHrcouPuwHh6vUHGX6e4AYoiALAT",
-	Explosionwebhook = "https://discord.com/api/webhooks/969936169347448882/5zz9b9ZhoSAStR5vzwmLaB6shuJ6WCao7eYb74ysyHrcouPuwHh6vUHGX6e4AYoiALAT",
-	Startwebhook = "https://discord.com/api/webhooks/970669483922436128/3rKXiZrzXTIwWbOWoHDCpqzhtSDio033FSf7bVYwnBAmfvNAan2buSVAz3CXCgJW0hne",
-	Screenshotwebhook = "https://discord.com/api/webhooks/969936169347448882/5zz9b9ZhoSAStR5vzwmLaB6shuJ6WCao7eYb74ysyHrcouPuwHh6vUHGX6e4AYoiALAT",
-	MoneyWebhook = "https://discord.com/api/webhooks/969936169347448882/5zz9b9ZhoSAStR5vzwmLaB6shuJ6WCao7eYb74ysyHrcouPuwHh6vUHGX6e4AYoiALAT",
+	BasicBanwebhook = "https://discord.com/api/webhooks/xxxxxxxxx",
+	EntitiesWebhook = "https://discord.com/api/webhooks/xxxxxxxxx",
+	Explosionwebhook = "https://discord.com/api/webhooks/xxxxxxxxx",
+	Startwebhook = "https://discord.com/api/webhooks/xxxxxxxxx",
+	Screenshotwebhook = "https://discord.com/api/webhooks/xxxxxxxxx",
+	MoneyWebhook = "https://discord.com/api/webhooks/xxxxxxxxx",
 }
 
 NeptuneS.ESXOptions = {
