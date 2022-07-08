@@ -1,1 +1,1 @@
-Neptune AC discord: https://discord.gg/HcYtwwdNpd
+print("Neptune AC discord: https://discord.gg/HcYtwwdNpd")
