@@ -31,10 +31,10 @@ NeptuneC.PlayerCheck = {
 
 NeptuneC.Executors = {
 	AntiEulen = true,
-	AntiRedEngine = false, (DEV...)
-	AntiDesudo = false, (DEV...)
-	AntiHX = false, (DEV...)
-	AntiFiveX = false, (DEV...)
+	AntiRedEngine = false, --(DEV...)
+	AntiDesudo = false, --(DEV...)
+	AntiHX = false, --(DEV...)
+	AntiFiveX = false, --(DEV...)
 	
 
 
