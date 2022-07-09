@@ -29,6 +29,17 @@ NeptuneC.PlayerCheck = {
 				TeleportDistance = 50, -- Teleport distance, 50 is a good starting point
 }
 
+NeptuneC.Executors = {
+	AntiEulen = true,
+	AntiRedEngine = false, (DEV...)
+	AntiDesudo = false, (DEV...)
+	AntiHX = false, (DEV...)
+	AntiFiveX = false, (DEV...)
+	
+
+
+}
+
 NeptuneC.Injections = {
 	InjectDetect = true, -- Client-side anti injector system
 	InjectKick = true, -- Kick players, if injection system catch cheaters.
