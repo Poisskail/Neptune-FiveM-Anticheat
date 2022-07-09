@@ -15,69 +15,124 @@ More Preview will be add soon...
 ### 🌊 Detections
 
 🌊 - Anti God Mode
+
 🌊 - Max health system
+
 🌊 - Anti Semi God Mode
+
 🌊 - Anti Spacklist
+
 🌊 - Resource Lookup
+
 🌊 - Command Checker
+
 🌊 - Resource Checker
+
 🌊 - Anti Resource Restart
+
 🌊 - NUICheck
+
 🌊 - Anti NUI-Devtools
+
 🌊 - Anti Invisible
+
 🌊 - Anti SpeedHack
+
 🌊 - Anti Explosive Bullets
+
 🌊 - Anti Noclip
+
 🌊 - Anti Weapon Damage Changer
+
 🌊 - EMDectate
+
 🌊 - Weapon Blacklist
+
 🌊 - NPC Deleter for NoNPC servers
+
 🌊 - Texture Detection
+
 🌊 - Thermal Vision detection
+
 🌊 - Night Vision detection
+
 🌊 - Anti Ragdoll detection
+
 🌊 - Anti MenyooASI
+
 🌊 - Anti Freecam
+
 🌊 - Armor check
+
 🌊 - Anti Tiny ped
+
 🌊 - Ped bl
+
 🔱 - Anti PCK Menu
+
 🔱 - Anti Scrambler Script
+
 🔱 - Anti Weapon remove
+
 🔱 - Anti Weapon add
+
 🔱 - Anti Entity Nuke, this will catch entity spams etc...
+
 🔱 - Anti ParticleFX
+
 🔱 - Anti Explosion Nuke
+
 🔱 - Anti Chat Spam
+
 🔱 - Anti Blacklisted Word
+
 🔱 - Blacklisted Events
+
 🔱 - Argument protected events
+
 🔱 - Anti Negative Events
+
 🔱 - Object/Vehicle/Ped blacklist
+
 🔱 - Anti Event spam
+
 
 ### 💲 Anti Executors
 
 💲 - Anti Eulen ✅
+
 💲 - Anti Red Engine ❌ (DEV...)
+
 💲 - Anti Desudo ❌ (DEV...)
+
 💲 - Anti FiveX ❌ (DEV...)
+
 💲 - Anti HX Softwares ❌ (DEV...)
+
 💲 - Anti Free Executors ❌ (DEV...)
+
 
 ### 📡 More Features 
 
 📡 - Advanced Deferrals System
+
 📡 - ScreenShot system
+
 📡 - Discord Logs
+
 📡 - Advanced Admin Menu (SOON)
+
 
 ### 🛡️ Server Security
 
 🛡️ - Anti Backdoors/Cipher
+
 🛡️ - Anti Ban Evasion
+
 🛡️ - Anti VPN
+
 🛡️ - Anti Injections
+
 
 ### Server-side dev functions
 
