@@ -5,6 +5,11 @@ NeptuneS = {}
 
 NeptuneS.DebugMode = false -- Debug Mode, prevent players from getting banned and kicked, only use it for troubleshooting and other testing stuff. This function will also disable bypass, to let admins to troubleshoot the Anticheat.
 
+NeptuneS.AntiBackdoor = {
+	Active = true,
+	AntiBackdoorCommand = "neptune-antibackdoor",
+}
+
 NeptuneS.ESX = {
 	AntiEsx = false, -- ONLY ENABLE THIS IF YOU ARE NOT USING ESX!
 	AntiEsxKick = false,
