@@ -10,86 +10,81 @@ More Preview will be add soon...
 
 # Neptune-AC Features 🌊
 
-# Client-side 
+# Detections
 
-🌊- Screen Check :
-         Freecam Check | 
-         Player Blips Check | 
-         Night Vision Check | | 
-         Thermal Vision Check | 
-         NUI DEV TOOLS Check | 
-         
-🌊- Anti Stop Script
+### 🌊 Detections
 
-🌊- Anti Stop Neptune Anticheat
- 
-🌊- Anti ALT-F4
+🌊 - Anti God Mode
+🌊 - Max health system
+🌊 - Anti Semi God Mode
+🌊 - Anti Spacklist
+🌊 - Resource Lookup
+🌊 - Command Checker
+🌊 - Resource Checker
+🌊 - Anti Resource Restart
+🌊 - NUICheck
+🌊 - Anti NUI-Devtools
+🌊 - Anti Invisible
+🌊 - Anti SpeedHack
+🌊 - Anti Explosive Bullets
+🌊 - Anti Noclip
+🌊 - Anti Weapon Damage Changer
+🌊 - EMDectate
+🌊 - Weapon Blacklist
+🌊 - NPC Deleter for NoNPC servers
+🌊 - Texture Detection
+🌊 - Thermal Vision detection
+🌊 - Night Vision detection
+🌊 - Anti Ragdoll detection
+🌊 - Anti MenyooASI
+🌊 - Anti Freecam
+🌊 - Armor check
+🌊 - Anti Tiny ped
+🌊 - Ped bl
+🔱 - Anti PCK Menu
+🔱 - Anti Scrambler Script
+🔱 - Anti Weapon remove
+🔱 - Anti Weapon add
+🔱 - Anti Entity Nuke, this will catch entity spams etc...
+🔱 - Anti ParticleFX
+🔱 - Anti Explosion Nuke
+🔱 - Anti Chat Spam
+🔱 - Anti Blacklisted Word
+🔱 - Blacklisted Events
+🔱 - Argument protected events
+🔱 - Anti Negative Events
+🔱 - Object/Vehicle/Ped blacklist
+🔱 - Anti Event spam
 
-🌊- Anti Sper Jump
+### 💲 Anti Executors
 
-🌊- Anti Spectate
+💲 - Anti Eulen ✅
+💲 - Anti Red Engine ❌ (DEV...)
+💲 - Anti Desudo ❌ (DEV...)
+💲 - Anti FiveX ❌ (DEV...)
+💲 - Anti HX Softwares ❌ (DEV...)
+💲 - Anti Free Executors ❌ (DEV...)
 
-🌊- Anti Noclip
+### 📡 More Features 
 
-🌊- Anti God Mod
+📡 - Advanced Deferrals System
+📡 - ScreenShot system
+📡 - Discord Logs
+📡 - Advanced Admin Menu (SOON)
 
-🌊- Anti Invisible
+### 🛡️ Server Security
 
-🌊- Anti No Ragdoll
+🛡️ - Anti Backdoors/Cipher
+🛡️ - Anti Ban Evasion
+🛡️ - Anti VPN
+🛡️ - Anti Injections
 
-🌊- Anti Infinite Stamina
+### Server-side dev functions
 
-🌊- Anti Explosive Bullet
+🔑 - Debug Mode
 
-🌊- Anti Blacklisted Weapons
 
-🌊- Anti Bugs/Glitch
 
-🌊- Wipe Destroyed Cars
-
-🌊- Anti Cheat Engine
-
-🌊- Anti Blacklisted Plates
-
-🌊- Anti Blacklisted Cars
-
-🌊- Anti Words On Screen
-
-🌊- Anti Blacklisted Commands
-
-# Server-side 
-
-🔱- Anti Cipher Backdoor
-
-🔱- Anti VPN
-
-🔱- Anti Much Money
-
-🔱- Anti Eulen
-
-🔱- Anti Parazetamol
-
-🔱- Anti RedEngine (DEV...)
-
-🔱- Anti Desudo (DEV...)
-
-🔱- Anti HX (DEV...)
-
-🔱- Anti Eulen Lua Inject
-
-🔱- Anti Eulen Spawn Car
-
-🔱- Anti XSS Injection
-
-🔱- Anti Give Weapons
-
-🔱- Anti Remove Weapons
-
-🔱- Anti Blacklisted Events
-
-🔱- Anti Blacklisted Models
-
-🔱- Anti Blacklisted Peds
 
 
 
