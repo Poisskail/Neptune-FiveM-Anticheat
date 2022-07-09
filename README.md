@@ -12,7 +12,7 @@ More Preview will be add soon...
 
 # Detections
 
-### 🌊 Detections
+## 🌊 Detections
 
 🌊 - Anti God Mode
 
@@ -97,7 +97,7 @@ More Preview will be add soon...
 🔱 - Anti Event spam
 
 
-### 💲 Anti Executors
+## 💲 Anti Executors
 
 💲 - Anti Eulen ✅
 
@@ -112,7 +112,7 @@ More Preview will be add soon...
 💲 - Anti Free Executors ❌ (DEV...)
 
 
-### 📡 More Features 
+## 📡 More Features 
 
 📡 - Advanced Deferrals System
 
@@ -123,7 +123,7 @@ More Preview will be add soon...
 📡 - Advanced Admin Menu (SOON)
 
 
-### 🛡️ Server Security
+## 🛡️ Server Security
 
 🛡️ - Anti Backdoors/Cipher
 
@@ -134,7 +134,7 @@ More Preview will be add soon...
 🛡️ - Anti Injections
 
 
-### Server-side dev functions
+## Server-side dev functions
 
 🔑 - Debug Mode
 
