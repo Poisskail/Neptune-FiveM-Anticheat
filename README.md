@@ -16,7 +16,19 @@ More Preview will be add soon...
 
 🌊 - Anti God Mode
 
-🌊 - Max health system
+🌊 - Check Menu's On Screen
+
+🌊 - Anti Txd Menu
+
+🌊 - Anti Unisolated Res Injection
+
+🌊 - Anti No AFK
+
+🌊 - Anti Vehicles Fly
+
+🌊 - Anti Vehicles Cheat
+
+🌊 - Max Health system
 
 🌊 - Anti Semi God Mode
 
